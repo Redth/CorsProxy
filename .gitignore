@@ -396,3 +396,6 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+CorsProxy/.DS_Store
+.DS_Store
+CorsProxy/appsettings.Development.json
